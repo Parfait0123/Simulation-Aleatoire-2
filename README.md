@@ -7,7 +7,7 @@
 Devoir de **Simulation Aléatoire II** (2<sup>e</sup> année de Génie Mathématique et Modélisation,
 ENSGMM / UNSTIM, année académique 2026–2027).
 
-**Binôme :** BOCO Daniel Tchégnon · BOTCHI Parfait
+**Binôme :** BOCO Daniel Tchégnon · BOTCHI Parfait \
 **Encadrant :** Dr (MC) BIAO Iboukoun Eliézer
 
 [![Lire le rapport](figures/png/apercu.png)](docs/Devoir_Simulation_Aleatoire_II.pdf)
@@ -15,10 +15,9 @@ ENSGMM / UNSTIM, année académique 2026–2027).
 **[📄 Lire le rapport (PDF)](docs/Devoir_Simulation_Aleatoire_II.pdf)**
 
 ## Résultats clés
-
-• **Exercice 1** : le modèle normal est une approximation raisonnable pour `LakeHuron`.
-• **Exercice 2** : IC bootstrap à 95 % de la médiane : [61 ; 83] (stable dès B = 5 000).
-• **Exercice 3** : Shapiro–Wilk et Kolmogorov–Smirnov rejettent la normalité de `rivers`.
+• **Exercice 1** : le modèle normal est une approximation raisonnable pour `LakeHuron`.\
+• **Exercice 2** : IC bootstrap à 95 % de la médiane : [61 ; 83] (stable dès B = 5 000).\
+• **Exercice 3** : Shapiro–Wilk et Kolmogorov–Smirnov rejettent la normalité de `rivers`.\
 • **Exercice 4** : les trois tests (t apparié, signe, Wilcoxon) concluent à une hausse des bactéries en 24 h.
 
 ## Aperçu des figures
